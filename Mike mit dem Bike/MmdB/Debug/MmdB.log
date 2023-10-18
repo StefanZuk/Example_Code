@@ -1,0 +1,28 @@
+﻿Der Buildvorgang wurde am 05.05.2014 22:32:36 gestartet.
+     1>Projekt "D:\eigene\c\MmdB\MmdB\MmdB.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "Debug\MmdB.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       ClCompile:
+         D:\Programme\cprogramm\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt steuerung.cpp
+         steuerung.cpp
+       Link:
+         D:\Programme\cprogramm\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\eigene\c\MmdB\Debug\MmdB.exe" /INCREMENTAL:NO /NOLOGO SDL.lib SDLmain.lib SDL_ttf.lib SDL_mixer.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MmdB.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\eigene\c\MmdB\Debug\MmdB.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\eigene\c\MmdB\Debug\MmdB.lib" /MACHINE:X86 Debug\figur.obj
+         Debug\main.obj
+         Debug\oberflaeche.obj
+         Debug\objekt.obj
+         Debug\spieler.obj
+         Debug\steuerung.obj
+         Debug\timer.obj
+     1>figur.obj : warning LNK4075: /EDITANDCONTINUE wird aufgrund der Angabe von /INCREMENTAL:NO ignoriert.
+     1>MSVCRTD.lib(cinitexe.obj) : warning LNK4098: Standardbibliothek "msvcrt.lib" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+         MmdB.vcxproj -> D:\eigene\c\MmdB\Debug\MmdB.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\eigene\c\MmdB\Debug\MmdB.exe;#1" /manifest Debug\MmdB.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Die Datei "Debug\MmdB.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "Debug\MmdB.lastbuildstate".
+     1>Die Erstellung des Projekts "D:\eigene\c\MmdB\MmdB\MmdB.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:00.79
