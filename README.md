@@ -14,3 +14,11 @@ Löst ein Beispiel Clause-set.
 
 ### 3. Sierpinski_recursion (2021)
 Programmiert für mein Info II Tutorium, um Rekursion einfach und anschaulich zu erklären
+
+### 4. Gaussian mixture model (2022)
+Implementation eines einfachen gaussian mixture models, um generierte Daten zu clustern.
+Teil einer Übung für die Vorlesung "Neural data science".
+
+### 5. Neural spike data processing (2022)
+Auch teil einer Übung für die Vorlesung "Neural data science".
+Ziel war es action potentials in Daten zu finden, die mit Hilfe von Silicon probes/electrodes, in einem Gehirn aufgezeichnet wurden. 
